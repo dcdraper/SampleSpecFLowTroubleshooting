@@ -42,8 +42,8 @@ namespace SampleSpecFLowTroubleshooting.UI
 
             Console.WriteLine();
             Console.WriteLine($"BOOLEAN VERIFICATION FAILED: {description}");
-            Console.WriteLine($"Expected: {expected.ToString()}");
-            Console.WriteLine($"Actual: {actual.ToString()}");
+            Console.WriteLine($"Expected: {expected}");
+            Console.WriteLine($"Actual: {actual}");
             return false;
         }
 

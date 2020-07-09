@@ -200,7 +200,7 @@ namespace SampleSpecFLowTroubleshooting.UI
             {
                 Console.WriteLine();
                 Console.WriteLine($"ELEMENT VERIFICATION FAILED: {description} was not found or not clickable");
-                Console.WriteLine($"Method attempted: {by.ToString()}");
+                Console.WriteLine($"Method attempted: {by}");
                 return false;
             }
             return true;

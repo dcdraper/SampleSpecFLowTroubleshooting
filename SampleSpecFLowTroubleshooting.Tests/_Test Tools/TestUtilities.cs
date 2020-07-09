@@ -80,7 +80,7 @@ namespace SampleSpecFLowTroubleshooting.Tests
             Console.WriteLine();
             Console.WriteLine($"TEST RUN ID: {TestRunID}");
             Console.WriteLine($"ENVIRONMENT: {Configuration.ENVIRONMENT}");
-            Console.WriteLine($"HEADLESS BROWSING: {Configuration.HEADLESS_BROWSING.ToString()}");
+            Console.WriteLine($"HEADLESS BROWSING: {Configuration.HEADLESS_BROWSING}");
             Console.WriteLine($"RESOLUTION: {Configuration.RESOLUTION}");
             Console.WriteLine();
         }
