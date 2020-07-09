@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSpecFLowTroubleshooting.UI", "SampleSpecFLowTroubleshooting.UI\SampleSpecFLowTroubleshooting.UI.csproj", "{B43360F8-D3CC-4B3B-8548-96AFF9592E01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleSpecFLowTroubleshooting.Tests", "SampleSpecFLowTroubleshooting.Tests\SampleSpecFLowTroubleshooting.Tests.csproj", "{9986121E-E3F2-4AE6-BB4D-063D7EB5275C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43360F8-D3CC-4B3B-8548-96AFF9592E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43360F8-D3CC-4B3B-8548-96AFF9592E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43360F8-D3CC-4B3B-8548-96AFF9592E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43360F8-D3CC-4B3B-8548-96AFF9592E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9986121E-E3F2-4AE6-BB4D-063D7EB5275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9986121E-E3F2-4AE6-BB4D-063D7EB5275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9986121E-E3F2-4AE6-BB4D-063D7EB5275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9986121E-E3F2-4AE6-BB4D-063D7EB5275C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD2EEEDE-61D2-403B-B863-F9B4AF58B6C5}
+	EndGlobalSection
+EndGlobal
